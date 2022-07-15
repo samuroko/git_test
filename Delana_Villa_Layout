@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T04:36:07.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="GadutDn5AQ5iWzfLBIV1" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:47:05.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="19ys8NaG7wMf7CXNccLs" version="20.1.1" type="github">
   <diagram id="NUoHwhxuFyqHzoIbytTQ" name="Page-1">
-    <mxGraphModel dx="1893" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3888" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-116" value="CLOSET" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=north;horizontal=0;labelPosition=center;align=center;fontStyle=1;fontSize=9;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="280" y="220" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Aaj8de2iUwFyJiBt4P6w-117" value="SITTING AREA" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;labelPosition=center;align=center;fontStyle=1;fontSize=10;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-117" value="SITTING AREA" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelPosition=center;align=center;fontStyle=1;fontSize=10;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="800" y="50" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-118" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fillStyle=solid;fillColor=#CCCCCC;direction=west;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
@@ -146,10 +146,10 @@
           <mxGeometry width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-220" value="STUDY TABLE" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;labelPosition=center;align=center;direction=north;horizontal=0;fontSize=7;fontStyle=1" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="1250" y="70" width="40" height="100" as="geometry" />
+          <mxGeometry x="1250" y="90" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-221" value="STUDY TABLE" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;labelPosition=center;align=center;direction=south;horizontal=0;fontSize=7;fontStyle=1" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="1250" y="170" width="40" height="70" as="geometry" />
+          <mxGeometry x="1250" y="160" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-222" value="BLIND" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=west;labelPosition=center;align=center;horizontal=1;fontSize=6;fontStyle=3" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="10" width="130" height="10" as="geometry" />
@@ -172,7 +172,7 @@
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-228" value="BLIND" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=west;labelPosition=center;align=center;horizontal=1;fontSize=6;fontStyle=3" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="1035" width="125" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Aaj8de2iUwFyJiBt4P6w-230" value="BLIND" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=west;labelPosition=center;align=center;horizontal=1;fontSize=6;fontStyle=3" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-230" value="BLIND" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#C2C2C2;direction=west;labelPosition=center;align=center;horizontal=1;fontSize=6;fontStyle=3" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="1160" width="130" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-231" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;direction=south;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
@@ -261,6 +261,18 @@
               <mxPoint x="10" y="130.43478260869566" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-250" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=9;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="250" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-251" value="LEGEND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-252" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fillStyle=solid;fillColor=#CCCCCC;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="750" y="310" width="18.82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-254" value="Door" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="305" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
