@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T04:32:49.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="YKg1owkENd6PgSP9_cNw" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T04:35:41.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="g9eVcPgyMvvx-gPVVmGU" version="20.1.1" type="github">
   <diagram id="NUoHwhxuFyqHzoIbytTQ" name="Page-1">
-    <mxGraphModel dx="2153" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,16 +47,16 @@
           <mxGeometry x="750" y="388.82" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-63" value="KITCHEN COUNTER" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;labelPosition=center;align=center;fontSize=9;fontStyle=1" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="830" y="310" width="120" height="49.41" as="geometry" />
+          <mxGeometry x="830" y="290" width="120" height="69.41" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-64" value="BIG SHELF" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;labelPosition=center;align=center;fontStyle=1;fontSize=9;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="1097.5" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="1097.5" y="280" width="132.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-65" value="SMALL SHELF" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=south;labelPosition=center;align=center;horizontal=0;fontSize=8;fontStyle=1" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="1035" y="60" width="35" height="110" as="geometry" />
+          <mxGeometry x="1035" y="60" width="15" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-66" value="HIS VANITY MIRROR" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=south;labelPosition=center;align=center;fontSize=7;horizontal=0;fontStyle=1" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="500" y="70" width="40" height="100" as="geometry" />
+          <mxGeometry x="520" y="70" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-67" value="SHELF" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=south;labelPosition=center;align=center;fontStyle=1;fontSize=9;horizontal=0;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="750" y="220" width="40" height="120" as="geometry" />
@@ -95,16 +95,16 @@
           <mxGeometry x="360" y="80" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-107" value="SHELF" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=south;labelPosition=center;align=center;horizontal=0;fontStyle=1;fontSize=10;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="230" y="230" width="30" height="100" as="geometry" />
+          <mxGeometry x="240" y="220" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-108" value="JACUZZI" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=south;labelPosition=center;align=center;fontStyle=1;fontSize=10;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="70" y="60" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-110" value="SHELF" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=south;labelPosition=center;align=center;fontStyle=1;horizontal=0;fontSize=9;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry y="230" width="40" height="100" as="geometry" />
+          <mxGeometry y="230" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-111" value="SHELF" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=west;labelPosition=center;align=center;fontStyle=1;fontSize=10;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="80" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="440" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-112" value="HER VANITY&lt;br style=&quot;font-size: 9px;&quot;&gt;MIRROR" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=west;labelPosition=center;align=center;fontSize=9;fontStyle=1" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="350" y="180" width="100" height="40" as="geometry" />
@@ -116,10 +116,10 @@
           <mxGeometry x="520" y="220" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-116" value="CLOSET" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;direction=north;horizontal=0;labelPosition=center;align=center;fontStyle=1;fontSize=9;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="280" y="230" width="20" height="100" as="geometry" />
+          <mxGeometry x="280" y="220" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-117" value="SITTING AREA" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#CCCCCC;labelPosition=center;align=center;fontStyle=1;fontSize=10;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="820" y="50" width="120" height="70" as="geometry" />
+          <mxGeometry x="800" y="50" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-118" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fillStyle=solid;fillColor=#CCCCCC;direction=west;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="960" y="368.81999999999994" width="18.82" height="20" as="geometry" />
