@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T04:35:41.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="g9eVcPgyMvvx-gPVVmGU" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T04:36:07.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="GadutDn5AQ5iWzfLBIV1" version="20.1.1" type="github">
   <diagram id="NUoHwhxuFyqHzoIbytTQ" name="Page-1">
-    <mxGraphModel dx="1476" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;fillStyle=solid;fillColor=#CCCCCC;direction=west;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="610" y="422.81" width="70" height="37.19" as="geometry" />
+          <mxGeometry x="626.18" y="440" width="37.64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;fillStyle=solid;fillColor=#CCCCCC;direction=east;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
-          <mxGeometry x="610" width="70" height="37.19" as="geometry" />
+          <mxGeometry x="628.08" width="37.65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;fillStyle=solid;fillColor=#CCCCCC;direction=south;" vertex="1" parent="Aaj8de2iUwFyJiBt4P6w-36">
           <mxGeometry x="995" y="321.17999999999995" width="20" height="18.82" as="geometry" />
