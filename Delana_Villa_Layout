@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T01:04:50.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="ISUJRlZg3yT2BMy9N50y" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T06:58:20.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="lQoKbQyGbe8lhqix5D_N" version="20.1.1" type="github">
   <diagram id="NUoHwhxuFyqHzoIbytTQ" name="Page-1">
-    <mxGraphModel dx="2574" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5542" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aaj8de2iUwFyJiBt4P6w-262" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Aaj8de2iUwFyJiBt4P6w-262" value="ACTIVITY AREA as per LABEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-263" value="Partitioning Wall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;fontSize=10;fontStyle=1" vertex="1" parent="1">
@@ -74,7 +74,7 @@
           <mxGeometry x="870" y="600" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-456" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1481.51" y="184" width="2250.9186746987953" height="984.8214285714286" as="geometry" />
+          <mxGeometry x="-1800" y="130" width="2250.9186746987953" height="984.8214285714286" as="geometry" />
         </mxCell>
         <mxCell id="Aaj8de2iUwFyJiBt4P6w-363" value="" style="group;fillColor=#F5F5F5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="Aaj8de2iUwFyJiBt4P6w-456">
           <mxGeometry x="10.918674698795181" y="14.82142857142857" width="2240" height="970" as="geometry" />
